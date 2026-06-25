@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Athul 👋</h1>
-<h3 align="center">Python Dev 🐍 | Game Scripter 🎮 | Aspiring Penetration Tester 🔐 | AI Enthusiast 🤖</h3>
+<h3 align="center">Python Dev 🐍 | Game Script Editor 🎮 | Aspiring Penetration Tester 🔐 , Cybersecurity | AI Enthusiast 🤖</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them...;Writing+Python+scripts+%26+tools;Exploring+Cybersecurity+%26+Pentesting;Building+with+AI+%2B+Web+Dev" alt="Typing SVG" />
 </p>
@@ -75,9 +75,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=athulpvtt&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athulpvtt&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</p>
 <p align="center"><i>⭐ "The quieter you become, the more you are able to hear." ⭐</i></p>
 
 
